@@ -1,0 +1,14 @@
+{
+  "name": "bot-tuto",
+  "version": "1.0.0",
+  "description": "Bot tuto youtube by tks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tks",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
